@@ -3,10 +3,10 @@
 ## Installation
 
 ```
-git clone https://github.com/dianaw353/Lunur-Wallpapers.git ~/Pictures/Wallpapers
+git clone --depth 1 https://github.com/dianaw353/Lunur-Wallpapers.git ~/Pictures/Wallpapers
 ```
 
 ## Sister Projects
 
-[Lunur-Dots](https://github.com/dianaw353/Lunur-Dots)
-[Lunur-Shell](https://github.com/dianaw353/Lunur-Shell)
+- [Lunur-Dots](https://github.com/dianaw353/Lunur-Dots)
+- [Lunur-Shell](https://github.com/dianaw353/Lunur-Shell)
